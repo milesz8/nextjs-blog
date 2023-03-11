@@ -22,17 +22,17 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          This site it the result of going throught the basic nextjs tutorial.
-          It is a statically generated and served to you by this amazing
-          framework!
+          This site it the result of going throught the basic nextjs tutorial
+          where you create a blog. It is a statically generated and deployed and
+          served to you by <a href="https://vercel.com/">Vercel</a>
         </p>
         <h1>For more info on me checkout</h1>
         <ul>
           <li>
-            <a href="https://nextjs.org/learn">my linked in profile</a>
+            <a href="https://nextjs.org/learn">My LinkedIn profile</a>
           </li>
           <li>
-            <a href="https://nextjs.org/learn">my github</a>
+            <a href="https://github.com/milesz8">My github profile</a>
           </li>
         </ul>
       </section>
