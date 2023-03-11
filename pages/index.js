@@ -27,10 +27,14 @@ export default function Home({ allPostsData }) {
           framework!
         </p>
         <h1>For more info on me checkout</h1>
-        <p>
-          (<a href="https://nextjs.org/learn">my linked in profile</a>.)
-          <a href="https://nextjs.org/learn">my github</a>
-        </p>
+        <ul>
+          <li>
+            <a href="https://nextjs.org/learn">my linked in profile</a>
+          </li>
+          <li>
+            <a href="https://nextjs.org/learn">my github</a>
+          </li>
+        </ul>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
