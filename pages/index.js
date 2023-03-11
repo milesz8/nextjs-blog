@@ -29,7 +29,9 @@ export default function Home({ allPostsData }) {
         <h1>For more info on me checkout</h1>
         <ul>
           <li>
-            <a href="https://nextjs.org/learn">My LinkedIn profile</a>
+            <a href="https://www.linkedin.com/in/miles-mclenon/">
+              My LinkedIn profile
+            </a>
           </li>
           <li>
             <a href="https://github.com/milesz8">My github profile</a>
