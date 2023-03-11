@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           This site is the result of me going throught the basic nextjs tutorial
-          where you create a blog. It is a statically generated and deployed and
+          where you create a blog. It is deployed, statically generated, and
           served to you by <a href="https://vercel.com/">Vercel</a>
         </p>
         <h1>For more info on me checkout</h1>
